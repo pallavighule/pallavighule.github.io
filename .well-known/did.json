@@ -3,15 +3,15 @@
   "didDocument": {
     "@context": [
       "https://w3id.org/did/v1",
-      "https://w3id.org/security/bbs/v1"
+      "https://w3id.org/security/suites/ed25519-2018/v1"
     ],
     "id": "did:web:pallavighule.github.io",
     "verificationMethod": [
       {
         "id": "did:web:pallavighule.github.io#key-1",
-        "type": "Bls12381G2Key2020",
+        "type": "Ed25519VerificationKey2018",
         "controller": "did:web:pallavighule.github.io",
-        "publicKeyBase58": "23AtdS1zTsaBQg5vWpvV3og7eC3JBGPPDK38YPXdynfGeQD49i7HZ8RQKmiHaSQNgsnRQu19xx5CrtVHMSN3jVCcQyG2KAYwkqaLcMsE4wMjVRreeEDsxrg1KfYuMmrMgPDo"
+        "publicKeyBase58": "83VucymDMaJMGrFyrbcQ6snRRh4J29HQUe5zwjwygJGp"
       }
     ],
     "authentication": [
