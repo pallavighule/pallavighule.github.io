@@ -1,21 +1,18 @@
 {
-  "did": "did:web:pallavighule.github.io",
-  "didDocument": {
     "@context": [
-      "https://w3id.org/did/v1",
-      "https://w3id.org/security/suites/ed25519-2018/v1"
+        "https://w3id.org/did/v1",
+        "https://w3id.org/security/suites/ed25519-2018/v1"
     ],
     "id": "did:web:pallavighule.github.io",
     "verificationMethod": [
-      {
-        "id": "did:web:pallavighule.github.io#key-1",
-        "type": "Ed25519VerificationKey2018",
-        "controller": "did:web:pallavighule.github.io",
-        "publicKeyBase58": "AWd8xW3YJP5qEUDuBLmyMQ7LT6MWAEQHXVasy83WwMpQ"
-      }
+        {
+            "id": "did:web:pallavighule.github.io#key-1",
+            "type": "Ed25519VerificationKey2018",
+            "controller": "did:web:pallavighule.github.io",
+            "publicKeyBase58": "AWd8xW3YJP5qEUDuBLmyMQ7LT6MWAEQHXVasy83WwMpQ"
+        }
     ],
     "authentication": [
-      "did:web:pallavighule.github.io#key-1"
+        "did:web:pallavighule.github.io#key-1"
     ]
-  }
 }
