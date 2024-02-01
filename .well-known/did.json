@@ -9,7 +9,7 @@
                 "id": "did:web:pallavighule.github.io#key-1",
                 "type": "Ed25519VerificationKey2018",
                 "controller": "did:web:pallavighule.github.io",
-                "publicKeyBase58": "FaRVVSuxqP884ALGpoqJDuVi9zqwjymGLQsS3gzz4S9J"
+                "publicKeyBase58": "83VucymDMaJMGrFyrbcQ6snRRh4J29HQUe5zwjwygJGp"
             }
         ],
         "service": [
